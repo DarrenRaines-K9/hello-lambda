@@ -3,3 +3,9 @@
 .roomodes
 context_portal/
 memory-bank/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
